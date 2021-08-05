@@ -1,0 +1,16 @@
+{
+  "name": "DIMTHRAK Utilities",
+  "version": "1.0.0",
+  "description": "The kernel used for DIMTHRAK Utilities",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^7.1.2",
+    "discord.js": "^12.5.1",
+    "fs": "dm!",
+    "node-fetch": "^2.6.1",
+    "quick.db": "^7.1.3"
+  }
+}
