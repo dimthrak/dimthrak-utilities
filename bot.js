@@ -1,4 +1,4 @@
-const token = 'ODU1NTE5ODk2MjMzMzEyMzE3.YMzq_g.iXIzFnzTcAQ-dzkqApWLypQ2Lgo'
+const token = ''
 console.log('Starting DIMTHRAK Utilities')
 Discord = require('discord.js')
 PREFIX = 'dm!'
